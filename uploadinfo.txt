@@ -1,4 +1,4 @@
-¡­or create a new repository on the command line
+Â¡Â­or create a new repository on the command line
 
 	echo "# spring-boot-demo" >> README.md
 	git init
@@ -6,10 +6,10 @@
 	git commit -m "first commit"
 	git remote add origin https://github.com/weiaigewang/spring-boot-demo.git
 	git push -u origin master
-¡­or push an existing repository from the command line
+Â¡Â­or push an existing repository from the command line
 
 	git remote add origin https://github.com/weiaigewang/spring-boot-demo.git
 	git push -u origin master
 
-¡­or import code from another repository
+Â¡Â­or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
